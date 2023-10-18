@@ -43,4 +43,4 @@ If you have suggestions for improving this script or find any issues, please ope
 
 ## License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is released under the GNU General Public License v3.0.
